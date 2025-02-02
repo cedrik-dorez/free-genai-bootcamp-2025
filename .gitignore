@@ -178,3 +178,4 @@ cython_debug/
 .history/
 *.vsix
 
+free-genai-bootcamp-2025.code-workspace
