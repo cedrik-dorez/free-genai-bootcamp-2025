@@ -174,4 +174,6 @@ cython_debug/
 .pypirc
 
 # Workspace file
-free-genai-bootcamp-2025.code-workspace
+.vscode/
+.history/
+*.vsix
