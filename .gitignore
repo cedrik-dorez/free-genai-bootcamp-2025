@@ -172,4 +172,6 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Workspace file
 free-genai-bootcamp-2025.code-workspace
