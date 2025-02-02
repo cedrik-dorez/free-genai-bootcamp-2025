@@ -6,9 +6,9 @@ Frontend Developer
 
 ## Project Brief
 
-We are building a Spanish langauge learning web-app which serves the following purposes:
+We are building a japanese langauge learning web-app which serves the following purposes:
 - A portal to launch study activities
-- to store, group and explore spanish vocabulary
+- to store, group and explore japanese vocabulary
 - to review study progress
 
 The web-app is intended for desktop only, so we don't have to be concerned with mobile layouts.
